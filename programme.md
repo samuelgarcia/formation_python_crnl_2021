@@ -7,7 +7,7 @@ Mercredi 28 Juillet 2021 9h30-17h00
 
    * **numpy_base**  Sam 14h00 - 14h30
    * **numpy_indexing**  Sam 14h30 - 15h30
-   * **numpy_advance** Sam 15h40 - 16h30
+   * **numpy_advanced** Sam 15h40 - 16h30
    * **matplotlib_base** Sam  16h30 - 17h30
 
 
