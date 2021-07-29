@@ -17,7 +17,7 @@ Jeudi 29 Juillet 2021 9h30-17h00
    * **file_manipulation** Sam 10h00 - 10h45
    * **pandas_base** Sam 11h00 - 12h00
    * **pandas_exo** 1h Sam 12h00 - 13h00
-   
+
    * **seaborn_base** Sam 14h00 - 14h20
    * **xarray** Sam 14h20 - 14h40
    * **sklearn** Sam 14h40 - 15h30
