@@ -21,7 +21,8 @@ Jeudi 29 Juillet 2021 9h30-17h00
    * **seaborn_base** Sam 14h00 - 14h20
    * **xarray** Sam 14h20 - 14h40
    * **sklearn** Sam 14h40 - 15h30
-   * **Formula_statsmodels** Sam 15h45 - 16h05
    * **python_and_R** Sam 16h05 - 16h25
+   * **Formula_statsmodels** Sam 15h45 - 16h05
    * **neo** Sam 16h25 - 16h45
    * **ephyviewer** Sam 16h45-17h00
+
